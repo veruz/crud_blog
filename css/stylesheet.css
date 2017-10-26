@@ -1,0 +1,31 @@
+body {
+  font-family: Courier New, Courier, monospace;
+  font-size: 16px;
+  color: #C8C8C8;
+  background-color:#222;
+  /*border: 3px double #CCCCCC;*/
+}
+
+/* unvisited link */
+a:link {
+    color:springgreen;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: lawngreen;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: limegreen;
+    text-decoration: none;
+}
